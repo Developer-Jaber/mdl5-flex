@@ -1,0 +1,13 @@
+.parrent{
+    padding: 25px;
+    background-color: antiquewhite;
+    display: flex;
+}
+.child{
+    border: 2px solid rgb(104, 128, 201);
+    background-color: rgb(138, 231, 199);
+    font-size: 28px;
+    padding: 20px;
+    margin: 10px 0;
+    
+}
